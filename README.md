@@ -20,9 +20,9 @@
 >개발 기간: 2023.05.25 ~ 2023.06.09 (약 2주)
 >  
 >기술 스택:  
->Java / Oracle / ibatis / html5 / css / Javascript / Bootstrap
+>Java / Oracle / ibatis / html5 / css / Javascript / Bootstrap / jQuery
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/pjkm00) 참고
 
 ---
 
@@ -31,9 +31,8 @@
 >개발 기간: 2023.06.30 ~ 2023.08.15 (7주)
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java / Spring / eGovFrame / Oracle / MyBatis / Bootstrap / jQuery / Spring Security
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/pjkm00) 참고
 
 ---
