@@ -15,7 +15,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [종합정보시스템](https://github.com/DW-4-1/1jo-project)
+### 1. [종합정보시스템](https://github.com/DW-4-1/1jo-project/tree/main/middle)
 >대학교 종합 정보 시스템 (팀 프로젝트)
 >개발 기간: 2023.05.25 ~ 2023.06.09 (약 2주)
 >  
