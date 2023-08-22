@@ -1,4 +1,4 @@
-# 대학교 종합 정보 시스템
+# [대학교 종합 정보 시스템](https://github.com/DW-4-1/1jo-project/tree/main/middle)
 ## 개요
 - java를 이용한 대학교 학사 종합 정보 시스템
 
