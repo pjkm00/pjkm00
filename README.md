@@ -16,7 +16,7 @@
 
 ## :pushpin: Skills
 - HTML / CSS / Javascript / JQuery
-- Java / Spring / eGoveFrame
+- Java / Spring / eGovFrame
 - Oracle
 - Git / Github
 
