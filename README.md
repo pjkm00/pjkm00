@@ -22,7 +22,7 @@
 >기술 스택:  
 >Java / Oracle / ibatis / html5 / css / Javascript / Bootstrap / jQuery
 >  
->[프로젝트 상세 설명](https://github.com/pjkm00) 참고
+>[프로젝트 상세 설명](https://github.com/pjkm00/pjkm00/blob/main/middleproject.md) 참고
 
 ---
 
