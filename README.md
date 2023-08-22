@@ -41,6 +41,6 @@
 >기술 스택:  
 >Java / Spring / eGovFrame / Oracle / MyBatis / Bootstrap / jQuery / Spring Security
 >  
->[프로젝트 상세 설명](https://github.com/pjkm00) 참고
+>[프로젝트 상세 설명](https://github.com/pjkm00/pjkm00/blob/main/finalproject.md) 참고
 
 ---
