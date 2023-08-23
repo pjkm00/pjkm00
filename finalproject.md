@@ -293,6 +293,19 @@ public void updateMemgrade() throws SQLException {
 
 ## 산출물
 
-#### erd
+#### erd 일부
 영화관련
 <img width="982" src="https://github.com/pjkm00/mink/assets/126858707/6ea04449-f7a8-481d-bdb1-06a844fc7433">
+<br><br>
+영화관관련
+<img width="982" src="https://github.com/pjkm00/mink/assets/126858707/a4dee5ce-48b7-4756-978e-9382bd1ee42f">
+<br><br>
+예매관련
+<img width="982" src="https://github.com/pjkm00/mink/assets/126858707/a6477608-71a9-460a-b496-bd0ff99b0844">
+<br><br>
+회원관련
+<img width="982" src="https://github.com/pjkm00/mink/assets/126858707/ff91dc1a-3fee-46d1-b3aa-0c663a2b565d">
+<br><br>
+관리자관련
+<img width="982" src="https://github.com/pjkm00/mink/assets/126858707/20f42f3e-36c6-4c90-afb2-fa3ed1e27d64">
+
