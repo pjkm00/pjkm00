@@ -25,15 +25,6 @@ DB설계, 고객 페이지의 대부분(예매, 영화, 스토어, 고객센터,
 결제(이니시스, 카카오 간편 결제 가능)
 ~~~js
 function requestPay() { 
-	let totalPrice = $('.totalPrice').text();
-	let method = $('input[name="payMethod"]:checked').prop('id');
-	let movie_name = '${mapData.MOVIE_NAME}';
-	let buyer_name = '<%=member.get("NAME")%>';
-	let buyer_tel = '<%=member.get("PHONE")%>';
-	let buyer_email = '<%=member.get("EMAIL")%>';
-	let price = ($('#totalpp').text()).replace(',', '');
-	let discount = $('#disprice').text().replace(',', '');
-	$('input[name="discount"]').val(discount);
 	let merchant_uid = new Date().getTime();
 	if(price <= 0){
 		$('#payForm').prop('action', '<%=request.getContextPath()%>/reservation/pay0ResultRedirect.do');
