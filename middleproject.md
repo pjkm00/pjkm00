@@ -1,6 +1,8 @@
 # [대학교 종합 정보 시스템](https://github.com/DW-4-1/1jo-project/tree/main/middle)
 ## 개요
 - java를 이용한 대학교 학사 종합 정보 시스템
+<img width="982" src="https://github.com/pjkm00/mink/assets/126858707/b622d51e-6945-4e5a-ab0a-70fb8db8e110">
+<img width="982" src="https://github.com/pjkm00/mink/assets/126858707/6b79e1d1-3d72-446d-be89-1fa2fe899205">
 
 #### 만든 목적
 - 학생이 수강 신청, 성적 확인, 과제 제출을 한 곳에서 가능
