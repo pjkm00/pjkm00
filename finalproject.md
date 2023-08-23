@@ -2,6 +2,7 @@
 ## 개요
 - 전자정부프레임워크를 이용한 영화 예매 사이트
 <img width="982" src="https://github.com/pjkm00/mink/assets/126858707/d055ec25-c505-49b7-b596-3a203b64e2ff">
+<img width="982" src="https://github.com/pjkm00/mink/assets/126858707/dc411d14-4975-4dc6-b676-6fbabe8ef90c">
 
 #### 일정
 - 2023.06.30 ~ 2023.08.15
